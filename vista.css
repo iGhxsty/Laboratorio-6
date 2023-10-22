@@ -1,0 +1,15 @@
+#contenido {
+    text-align: center;
+    padding: 20px;
+}
+
+#imagen {
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-top: 20px; 
+}
