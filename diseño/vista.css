@@ -1,15 +1,25 @@
-#contenido {
-    text-align: center;
+/* Agrega estilos específicos para la página 3 aquí */
+body {
+    background-color: #f7f7f7;
+}
+
+.container {
+    background-color: #ffffff;
     padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
 }
 
-#imagen {
-    text-align: center;
+h1 {
+    color: #333;
 }
 
-img {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin-top: 20px; 
+h2 {
+    color: #555;
 }
+
+p {
+    color: #777;
+}
+
+/* Puedes agregar más estilos personalizados aquí */
